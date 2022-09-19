@@ -1,0 +1,21 @@
+div {
+    border: 2px solid rgb(45, 3, 101);
+}
+.product1 {
+    color: brown;
+}
+.product2{
+    color:aquamarine;
+}
+.product3, h1 {
+    color:blueviolet;
+}
+.product4{
+    color:green;
+}
+h1 {
+    background: yellow;
+}
+h3{
+    color: red;
+}
